@@ -21,7 +21,7 @@ Heading 4
 Repeatable content blocks: Repeatable sections are noted with plus and minus signs so that you can add and subtract content blocks. You can also get a little fancy (http://www.mailchimp.com/kb/article/how-do-i-work-with-repeatable-content-blocks): repeat blocks and remove all text to make image "gallery" sections, or do the opposite and remove images for text-only blocks!
 Heading 4
 Repeatable content blocks: Repeatable sections are noted with plus and minus signs so that you can add and subtract content blocks. You can also get a little fancy (http://www.mailchimp.com/kb/article/how-do-i-work-with-repeatable-content-blocks): repeat blocks and remove all text to make image "gallery" sections, or do the opposite and remove images for text-only blocks!
-follow on Twitter</a> | <a href="*|FACEBOOK:PROFILEURL|*">friend on Facebook</a> | <a href="*|FORWARD|*">forward to a friend (*|TWITTER:PROFILEURL|*)
+follow on Twitter (*|TWITTER:PROFILEURL|*) | friend on Facebook (*|FACEBOOK:PROFILEURL|*) | forward to a friend (*|FORWARD|*)
 
 
 Copyright &copy; *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
@@ -41,6 +41,6 @@ Our mailing address is:
 *|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*
 
 
-unsubscribe from this list</a> | <a href="*|UPDATE_PROFILE|*">update subscription preferences</a>*|IFNOT:ARCHIVE_PAGE|* | <a href="*|ARCHIVE|*">view email in browser (*|UNSUB|*)*|END:IF|*
+unsubscribe from this list (*|UNSUB|*) | update subscription preferences (*|UPDATE_PROFILE|*)*|IFNOT:ARCHIVE_PAGE|* | view email in browser (*|ARCHIVE|*)*|END:IF|*
 
 

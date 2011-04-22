@@ -35,7 +35,7 @@ text = text.gsub(/^<!DOCTYPE .*$/, '')
 text = text.gsub(/~br~/, "\n")
 
 # links
-text.gsub!(/<a\s+[^>]*href="([^"]*)"[^>]*>(.*)<\/a>/i, '\\2 (\\1)')
+text.gsub!(/<a\s+[^>]*href="(.*?)\"[^>]*>(.*?)<\/a>/i, '\\2 (\\1)')
 
 File.open('result.txt', 'w') do |f|  
   f.puts text
