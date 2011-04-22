@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-type">
+    <title>Drag &amp; Drop Mail Converter</title>
+    <link rel="stylesheet" href="/css/master.css" type="text/css" media="screen" title="no title">
+  </head>
+  
+  <body>
+    <div id="drop_target">
+    </div>
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js" type="text/javascript"></script>
+    <script src="/javascripts/jquery.dnduploader.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+      $("#drop_target").dndUploader({
+        url : "/",
+        method : "PUT"
+      });
+    </script>
+  </body>
+</html>
