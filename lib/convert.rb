@@ -9,7 +9,7 @@ def convert_to_plain_from_url(url)
   convert_to_plain html
 end
 
-def convert_to_plain(html)
+def convert_to_plain(html, save = FALSE)
   html = html.gsub(/(<br\s*\/?>\s*)+/, "~br~")
 
   # Hpricot Sub
@@ -40,9 +40,11 @@ def convert_to_plain(html)
 
   # links
   text.gsub!(/<a\s+[^>]*href="(.*?)\"[^>]*>(.*?)<\/a>/i, '\\2 (\\1)')
-
-  File.open('tmp/result.txt', 'w') do |f|  
-    f.puts text
+  
+  if save
+    File.open('tmp/result.txt', 'w') do |f|  
+      f.puts text
+    end
   end
 
   text
