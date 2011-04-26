@@ -41,12 +41,16 @@
       
       if (dataTransfer.files.length > 0) {
         $.each(dataTransfer.files, function ( i, file ) {
-          var xhr    = new XMLHttpRequest();
-          var upload = xhr.upload;
-          
+          var xhr     = new XMLHttpRequest();
+          var upload  = xhr.upload;
+          var handler = $this.data('handler');
+
           xhr.open($this.data('method') || 'POST', $this.data('url'), true);
           xhr.setRequestHeader('X-Filename', file.fileName);
-          
+          xhr.onreadystatechange = function() {
+            handler.call(this);
+          };
+
           xhr.send(file);
         });
       };

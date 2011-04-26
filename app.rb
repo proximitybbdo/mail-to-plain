@@ -10,8 +10,7 @@ class App < Sinatra::Base
     convert_to_plain(request.body.read)
 
     # puts "uploaded #{env['HTTP_X_FILENAME']} - #{request.body.read.size} bytes"
-
-    redirect '/download_latest'
+    # redirect '/download_latest'
   end
 
   get '/download_latest' do

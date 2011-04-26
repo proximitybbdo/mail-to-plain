@@ -1,46 +1,112 @@
 
-*|MC:SUBJECT|*
-Use this area to offer a short teaser of your email's content. Text here will show in the preview area of some email clients and in Facebook news feed posts.
-Is this email not displaying correctly?
-View it in your browser (*|ARCHIVE|*).
-Heading 1
-Heading 2
-Heading 3
-Heading 4
-Getting started: Customize your template by clicking on the style editor tabs up above. Set your fonts, colors, and styles. After setting your styling is all done you can click here in this area, delete the text, and start adding your own awesome content!
 
-After you enter your content, highlight the text you want to style and select the options you set in the style editor in the "styles" drop down box. Want to get rid of styling on a bit of text (http://www.mailchimp.com/kb/article/im-using-the-style-designer-and-i-cant-get-my-formatting-to-change), but having trouble doing it? Just use the "remove formatting" button to strip the text of any formatting and reset your style.
-Friend on Facebook (*|FACEBOOK:PROFILEURL|*)
-Follow on Twitter (*|TWITTER:PROFILEURL|*)
-Forward to a Friend (*|FORWARD|*)
-Heading 4
-Repeatable content blocks: Repeatable sections are noted with plus and minus signs so that you can add and subtract content blocks. You can also get a little fancy (http://www.mailchimp.com/kb/article/how-do-i-work-with-repeatable-content-blocks): repeat blocks and remove all text to make image "gallery" sections, or do the opposite and remove images for text-only blocks!
-Heading 4
-Repeatable content blocks: Repeatable sections are noted with plus and minus signs so that you can add and subtract content blocks. You can also get a little fancy (http://www.mailchimp.com/kb/article/how-do-i-work-with-repeatable-content-blocks): repeat blocks and remove all text to make image "gallery" sections, or do the opposite and remove images for text-only blocks!
-Heading 4
-Repeatable content blocks: Repeatable sections are noted with plus and minus signs so that you can add and subtract content blocks. You can also get a little fancy (http://www.mailchimp.com/kb/article/how-do-i-work-with-repeatable-content-blocks): repeat blocks and remove all text to make image "gallery" sections, or do the opposite and remove images for text-only blocks!
-Heading 4
-Repeatable content blocks: Repeatable sections are noted with plus and minus signs so that you can add and subtract content blocks. You can also get a little fancy (http://www.mailchimp.com/kb/article/how-do-i-work-with-repeatable-content-blocks): repeat blocks and remove all text to make image "gallery" sections, or do the opposite and remove images for text-only blocks!
-follow on Twitter (*|TWITTER:PROFILEURL|*) | friend on Facebook (*|FACEBOOK:PROFILEURL|*) | forward to a friend (*|FORWARD|*)
+Capital management in banking: The way forward
 
+ (http://www.pwc.com/be/en)
 
-Copyright &copy; *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+ (#)Future for banking - The impact of Basel III (#)
 
-*|IFNOT:ARCHIVE_PAGE|*
-*|LIST:DESCRIPTION|*
+If you cannot read this email correctly, please click here. (&amp;&amp;&amp;)
 
-Our mailing address is:
+The    Journal
 
-*|HTML:LIST_ADDRESS_HTML|*
+Dear &lt;Title&gt; &lt;FirstName&gt; &lt;LastName&gt;,
+The Journal offers a global perspective on the challenges and opportunities in the Banking &amp; Capital Markets sector. You'll find below the latest article, which for sure you'll find useful.
+If you would like to discuss any aspects of the issues raised in this article, please contact us.
 
-*|END:IF|*
+Future    for banking?
 
+Looking ahead, it is becoming clearer: it is a future of more capital, more liquidity and less risk. Therefore inevitably, a future with lower returns on capital, higher costs, slower growth, &hellip;
 
+The impact of Basel III
 
+Basel III is set to redraw the banking landscape
 
-*|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*
+It has a profound impact on profitability
 
+It may force banks to transform business models
 
-unsubscribe from this list (*|UNSUB|*) | update subscription preferences (*|UPDATE_PROFILE|*)*|IFNOT:ARCHIVE_PAGE|* | view email in browser (*|ARCHIVE|*)*|END:IF|*
+Firms will be required to change processes and systems
 
+Time to Act: Basel III and beyond
 
+The risk specialists at PwC are equipped to cover  every aspect of risk management and responding to challenges in today's Basel  III world - from top-of-house governance and strategic issues, to specific  modelling and compliance challenges. We discuss key themes in six strands.
+
+Risk &amp; Strategy
+
+Risk in the Business
+
+Risk technology and data
+
+Risk Measureement
+
+Risk culture and people
+
+Liquidity risk management
+
+Download now (#)
+
+The Journal
+
+Capital management in banking: The way forward
+
+In this edition, we look into
+Basel III and the challenges firms will face as these changes come into operation.
+
+Read more on the impact of Basel III (#)
+
+ (#)
+
+Recent Publications
+
+&quot;Growth Reimagined&quot; Pwc's 14th annual CEO survey. (http://www.pwc.com/gx/en/ceo-survey/index.jhtml?WT.mc_id=syndication_01-11_ceo-survey-animated-logo-gx_ceo-survey-home)
+
+The way forward: Innovation and differentiation in the reinsurance industry - the CEO perspective (http://www.pwc.com/en_GX/gx/insurance/event/rendezvous/assets/innovation-differentiation-reinsurance-industry.pdf)
+
+Opening the way: The future direction of the London Insurance Market. (http://www.pwc.com/en_GX/gx/insurance/event/rendezvous/assets/future-direction-London-Insurance-Market.pdf)
+
+Contact
+
+Josy Steenwinckel (mailto:josy.steenwinckel@pwc.be)
+
+Partner &amp; FS Responsible
+Tel:  +32 (0)2 710 7139
+
+Robert van der Eijk (mailto:robert.van.der.eijk@pwc.be)
+
+Partner
+Tel: +32 (0)2 710 7271
+
+Related links
+
+The  dedicated Financial Services section on our website (http://www.pwc.com/be/en/financial-services/index.jhtml)
+
+ (#)
+
+Forward (#)
+
+ (#)
+
+Print (&amp;&amp;&amp;)
+
+ ([EMV SHARE lang=en])
+
+Share ([EMV SHARE lang=en])
+
+Follow us on:
+
+ (http://twitter.com/PwC_Belgium)
+
+Twitter (http://twitter.com/PwC_Belgium) (#)
+
+&copy; 2011 PwC (http://www.pwc.com/be/en)
+
+Privacy (http://www.pwc.com/be/en/privacy-statement/index.jhtml)
+
+Legal (http://www.pwc.com/be/en/legal-disclaimer/index.jhtml)
+
+Unsubscribe (mailto:marketing.mailbox@pwc.be?subject=Please unsubscribe me from [EMV FIELD]NEWSLETTER[EMV /FIELD])
+
+Contact (mailto:marketing.mailbox@pwc.be)
+
+All rights reserved. &quot;PwC&quot; refers to the network of member firms of PricewaterhouseCoopers International Limited (PwCIL), or, as the context requires, individual member firms of the PwC network. Each member firm is a separate legal entity and does not act as agent of PwCIL or any other member firm. PwCIL does not provide any services to clients. PwCIL is not responsible or liable for the acts or omissions of any of its member firms nor can it control the exercise of their professional judgment or bind them in any way. No member firm is responsible or liable for the acts or omissions of any other member firm nor can it control the exercise of another member firm's professional judgment or bind another member firm or PwCIL in any way.
